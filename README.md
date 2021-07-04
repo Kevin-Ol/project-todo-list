@@ -2,6 +2,8 @@
 
 ![project-todo-list](https://user-images.githubusercontent.com/82068881/122617011-de01d800-d061-11eb-8bac-f2b766881f45.png)
 ***
+Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-todo-list/).
+
 Foram utilizadas as tecnologias HTML, CSS e Javascript.
 
 O objetivo do projeto foi consolidar o conhecimento em manipulação de seletores DOM.
